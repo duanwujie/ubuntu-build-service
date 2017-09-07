@@ -34,7 +34,7 @@ lb config \
  --mode debian \
  --security true \
  --system normal \
- --updates true
+ --updates false
 
 echo "I: copy customization"
 test -d customization && cp -rf customization/* config/
