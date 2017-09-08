@@ -107,7 +107,7 @@ net-tools
 netbase
 netcat-openbsd
 network-manager-gnome
-nodejs-legacy
+nodejs
 ntpdate
 obexftp
 obexpushd
